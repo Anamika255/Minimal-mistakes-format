@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-logo                     : "/assets/images/LOGO.png"
+logo                     : "LOGO.png"
 masthead_title           : "Is this the real life?"
 minimal_mistakes_skin    : neon
 title                    : "Anamika Shreevastava"
